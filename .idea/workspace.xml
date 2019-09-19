@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1472d0bb-b9ae-4bad-be1b-c799f9fb3659" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/posts/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/posts/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Message_Board_App/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/Message_Board_App/wsgi.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +70,7 @@
       <updated>1568807812392</updated>
       <workItem from="1568807823233" duration="4554000" />
       <workItem from="1568899674043" duration="138000" />
-      <workItem from="1568899888316" duration="1818000" />
+      <workItem from="1568899888316" duration="2364000" />
     </task>
     <servers />
   </component>
